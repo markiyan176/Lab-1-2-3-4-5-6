@@ -1,0 +1,161 @@
+.text-main {
+  color: rgb(255, 160, 65);
+  font-family: "Arial";
+  font-size: 30px;
+  text-align: center;
+  z-index: 1;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.photo {
+  transform: scale(1.011);
+}
+
+.bold-line {
+  height: 100px;
+  background-color: #353535;
+  border: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.orange-line {
+  width: 70px;
+  border: 3px solid rgb(255, 160, 65);
+  position: absolute;
+  left: 50%;
+  top: 19%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.text {
+  color: white;
+  font-family: "Arial";
+  font-size: 20px;
+  text-align: center;
+  z-index: 1;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.5;
+}
+.table-white {
+  width: 800px;
+  border: 150px solid rgb(255, 255, 255);
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.photo1 {
+  z-index: 2;
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+.photo2 {
+  z-index: 2;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.photo3 {
+  z-index: 2;
+  position: absolute;
+  top: 45%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
+.text1 {
+  color: rgb(136, 136, 136);
+  font-size: 20px;
+  font-family: "Arial";
+}
+.text1 .address {
+  position: absolute;
+  top: 53%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.text1 .email {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.text1 .callus {
+  position: absolute;
+  top: 53%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.discription {
+  color: rgb(136, 136, 136);
+  font-size: 15px;
+  font-family: "Arial";
+  text-align: center;
+}
+.discription .address {
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.discription .email {
+  color: black;
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.discription .callus {
+  position: absolute;
+  top: 60%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.d {
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  top: 82%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.e {
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  top: 84%;
+  left: 52.8%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  text-decoration: underline;
+}
+.sample {
+  font-size: 15px;
+  color: white;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  text-align: center;
+  line-height: 1.5;
+}
