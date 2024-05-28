@@ -1,0 +1,86 @@
+[
+  {
+    "from": "from2",
+    "to": "to2",
+    "login": "j1",
+    "price": 92
+  },
+  {
+    "from": "from2",
+    "to": "to2",
+    "login": "j1",
+    "price": 20
+  },
+  {
+    "from": "from2",
+    "to": "to2",
+    "login": "j1",
+    "price": 62
+  },
+  {
+    "from": "from2",
+    "to": "to2",
+    "login": "j1",
+    "price": 77
+  },
+  {
+    "from": "from2",
+    "to": "to2",
+    "login": "j1",
+    "price": 31
+  },
+  {
+    "from": "Lviv",
+    "to": "Dubai",
+    "login": "q",
+    "price": 35
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 64
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 83
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 82
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 54
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 32
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 57
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 29
+  },
+  {
+    "from": "Lviv123",
+    "to": "Duba123",
+    "login": "q",
+    "price": 100
+  }
+]
